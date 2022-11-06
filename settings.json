@@ -1,8 +1,8 @@
 {
   "tokens": {
-    "main": "",
+    "main": "MTAzODEyMzU4MzE3MzU3MDU5MA.G0LkT4.Alnl_9rPAtjQZaNbv7L5u3IooCN--AcdjAgSqk",
     "alts": [
-      ""
+      "MTAyODQ3NzQwMTY4MTg4NzI3Mw.GMAvO8.FFhZbdtoayaHZNqAnOhFIyJByPfebI8MdvF-zc"
     ]
   },
   "status": {
@@ -16,7 +16,7 @@
     "delay": true
   },
   "giveaway": {
-    "enable": true,
+    "enable": false,
     "delay": 15,
     "dm": "Hey, I won a giveaway !",
     "dm_delay": 25,
